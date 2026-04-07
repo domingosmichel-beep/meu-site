@@ -1,20 +1,34 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
+.grupo {
+    display: flex;
+    flex-direction: colum;
+}
+
 .cabecalho {
-    background-color: #7102bb;
+    background-color: #12ddaa;
+    color: #fff;
+    padding: 10px;
+}
+
+.navegacao {
+    background-color: #ad5566;
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
 }
 
 .secao {
-    background-color: rgb(49, 5, 5);
-}
-
-.footer {
-    background-color: blanchedalmond;
+    background-color: #22ffaa;
 }
 
 .rodape {
-    background-color: blanchedalmond;
+    background-color: #00ddff;
 }
 
+img {
+    margin: 0px;
+}
