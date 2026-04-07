@@ -9,24 +9,24 @@
 }
 
 .cabecalho {
-    background-color: #12ddaa;
+    background-color: #003326;
     color: #fff;
     padding: 10px;
 }
 
 .navegacao {
-    background-color: #ad5566;
+    background-color: #b60000;
     display: inline-block;
     width: 30%;
     padding: 10px;
 }
 
 .secao {
-    background-color: #22ffaa;
+    background-color: #005031;
 }
 
 .rodape {
-    background-color: #00ddff;
+    background-color: #ff8800;
 }
 
 img {
